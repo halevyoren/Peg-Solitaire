@@ -1,0 +1,20 @@
+.game-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.game-area button {
+  margin-top: 5px;
+}
+.board {
+  border: 1px solid black;
+}
+.set-game-size input {
+  width: 5vw;
+  min-width: 30px;
+}
+.set-game-size button {
+  margin-left: 10px;
+}
